@@ -1,0 +1,5 @@
+C:\Users\Nastya\Desktop\TechTask voloshyna\TeachTask\TeachTask\obj\Debug\net6.0\TeachTask.csproj.AssemblyReference.cache
+C:\Users\Nastya\Desktop\TechTask voloshyna\TeachTask\TeachTask\obj\Debug\net6.0\TeachTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nastya\Desktop\TechTask voloshyna\TeachTask\TeachTask\obj\Debug\net6.0\TeachTask.AssemblyInfoInputs.cache
+C:\Users\Nastya\Desktop\TechTask voloshyna\TeachTask\TeachTask\obj\Debug\net6.0\TeachTask.AssemblyInfo.cs
+C:\Users\Nastya\Desktop\TechTask voloshyna\TeachTask\TeachTask\obj\Debug\net6.0\TeachTask.csproj.CoreCompileInputs.cache
